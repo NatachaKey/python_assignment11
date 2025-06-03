@@ -1,0 +1,8 @@
+Static visualizations present data in a fixed format, suitable for reports or presentations but limited in flexibility. 
+In contrast, interactive visualizations allow users to engage with the data—zooming, filtering, and exploring details—making analysis more dynamic and insightful.
+
+Dashboards offer a powerful way to explore real-time data. They update automatically, helping users monitor key information,
+ spot patterns quickly, and make informed decisions without needing to dig through raw data.
+
+Tools like Plotly and Dash enhance how professionals share data by turning complex information into interactive visuals. 
+This makes it easier for teams to explore, understand, and communicate findings clearly and efficiently.
